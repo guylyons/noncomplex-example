@@ -1,0 +1,3 @@
+[submodule "noncomplex-hugo"]
+	path = noncomplex-hugo
+	url = git@github.com:guylyons/noncomplex-hugo.git
